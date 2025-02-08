@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Addis and I'm a passionate Full Stack Web Developer, from Ethiopia.
-
+Hi there! 👋 I'm Addis, a passionate and driven Full Stack Web Developer based in Ethiopia. With a deep love for coding and problem-solving, I bring creative solutions to life by working on both the front and back end of web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/addis-alemayehu-440942332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:addisale0727@gmail.com) 
