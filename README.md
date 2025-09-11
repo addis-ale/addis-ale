@@ -67,12 +67,6 @@
 </p>
 
 
-<p>
-  <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" height="50" alt="Canva" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="50" alt="Figma" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" alt="Adobe Photoshop" />
-</p>
-
 </div>
 
 
