@@ -33,7 +33,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python" />
   <img src="https://cdn.worldvectorlogo.com/logos/java-2.svg" height="50" alt="Java" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" height="50" alt="Php />
+
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++" />
  </p>
 
